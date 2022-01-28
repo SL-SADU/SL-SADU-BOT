@@ -72,10 +72,10 @@
             "MUST_TEXT": "```කරුණාකර ඕනෑම පණිවිඩයකට tag දෙන්න.```"
         },
         "heroku": {
-            "RESTART_DESC": "♻ Amdibell නැවත ආරම්භ කරන්න",
-            "RESTART_MSG": "♻ Amdibell නැවත ආරම්භ කිරීම...",
+            "RESTART_DESC": "♻ Sadubot නැවත ආරම්භ කරන්න",
+            "RESTART_MSG": "♻ Sadubot නැවත ආරම්භ කිරීම...",
             "SHUTDOWN_DESC": "Bot වසා දමන්න.",
-            "SHUTDOWN_MSG": "```Amdibell වසා දමන ලදී.⛔```",
+            "SHUTDOWN_MSG": "```Sadubot වසා දමන ලදී.⛔```",
             "DYNO_DESC": "Heroku dyno භාවිතය පරීක්ෂා කරන්න.",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
