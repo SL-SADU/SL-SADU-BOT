@@ -1,9 +1,9 @@
-<h2 align="center"> 🕵🔑🕯🎩☠️ Hellow ☠️🎩🕯🔑🕵 <br>I'm <br>⚖️🐝Black Vampired🐝⚖️</h1>
+<h2 align="center"> ☠️ Hellow 🔑 <br>I'm <br>⚖️S_L SADARUWAN⚖️</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 
 <div align="center">
-  <img src="https://i.ibb.co/HTZDMQX/LOGO.jpg" width="300" height="300">      
-  <h1>👸QUEEN AMDIBELL👸</h1>
+  <img src="https://https://i.ibb.co/2Zywcrt/IMG-20220128-WA0000.jpg" width="300" height="300">      
+  <h1>👸S_L SADU BOT👸</h1>
 
 	  
 	
@@ -72,7 +72,7 @@
 
 ```
 
-Amdibell බොට් රැජින WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි.
+SL SADU බොට්  WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි.
 අනිසි ලෙස භාවිතා කිරීමේ සියලු ප්‍රතිවිපාක සඳහා පරිශීලකයා වගකිව යුතුය.
 මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි.
 ඊට අමතරව, එය පරිශීලකයින් සඳහා ප්ලග් ඉන් සහාය සක්‍රීය කරයි.
@@ -82,7 +82,7 @@ Amdibell බොට් රැජින WhatsApp සඳහා වන පරිශ�
 ```
 
 ```
-Amdibell bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+SL SADU bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
 This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
 Additionally, it enables plug-in support for users.
@@ -102,8 +102,8 @@ HAVE A FUN!
 
 
 
-## 🔎 What Amdibell bot?
-**Queen Amdibell bot,** is a WhatsApp helper bot written by [Amda] and Developed by [mr.pasiya and sithum]. Does not log into your account It is written on WhatsApp Web API.
+## 🔎 What SL SADU bot?
+**Sl sadu bot,** is a WhatsApp helper bot written by [MAHESH] and Developed by [mr.SADU]. Does not log into your account It is written on WhatsApp Web API.
 
 ### The Hard Method (Not Recommend)
 ```js
