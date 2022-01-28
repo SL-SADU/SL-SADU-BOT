@@ -1,9 +1,9 @@
-/* Copyright (C) 2021 AmdA.
+/* Copyright (C) 2022 SADUBOT.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Amdibell - AmdA
+SL_SADU BOT - SADUBOT
 */
 
 // Komutları burada tutacağız.
