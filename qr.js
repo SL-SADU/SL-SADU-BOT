@@ -1,9 +1,9 @@
-/* Copyright (C) 2021 AmdA.
+/* Copyright (C) 2022 SADU BOT.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Amdibell - AmdA
+SAL_SADU BOT - SADU BOT
 */
 
 const chalk = require('chalk');
@@ -23,7 +23,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 
 	conn.on('open', async () => {
 		console.log(
-			chalk.green.bold('Amdibell QR Code: '),
+			chalk.green.bold('SADU BOT QR Code: '),
 			'AMDI;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
