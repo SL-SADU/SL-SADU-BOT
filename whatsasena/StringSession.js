@@ -1,9 +1,9 @@
-/* Copyright (C) 2021 AmdA.
+/* Copyright (C) 2022 SADU.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Amdibell - AmdA
+SL-SADU BOT - SADU
 */
 
 const fs = require('fs');
@@ -13,7 +13,7 @@ class StringSession {
     }
 
     deCrypt(string = undefined) {
-        if ('AMDI_SESSION' in process.env && string === undefined) {
+        if ('SADU_SESSION' in process.env && string === undefined) {
             string = process.env.STRING_SESSION;
         } else if (string !== undefined) {
             if (fs.existsSync(string)) {
@@ -28,7 +28,7 @@ class StringSession {
     }
 
     createStringSession(dict) {
-        return 'AMDI;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'SADU;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
