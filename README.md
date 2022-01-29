@@ -94,7 +94,7 @@ HAVE A FUN!
 
 ### step 1
 
-[![Run on Repl.it](https://repl.it/badge/github/BlackVampired/Amdibell)](https://replit.com/@KgAmda/Amdibell-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github.com/SL-SADU/SL_BOT-SADUWA)](https://replit.com/@KgAmda/Amdibell-QR?v=1)
 
 ### step 2
 
