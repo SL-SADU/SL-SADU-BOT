@@ -98,9 +98,7 @@ HAVE A FUN!
 
 ### step 2
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackVampired/Amdibell)
-
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-SADU/SL-SADU-BOT)
 
 ## 🔎 What SL SADU bot?
 **Sl sadu bot,** is a WhatsApp helper bot written by [MAHESH] and Developed by [mr.SADU]. Does not log into your account It is written on WhatsApp Web API.
